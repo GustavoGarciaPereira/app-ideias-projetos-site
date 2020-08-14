@@ -1,0 +1,24 @@
+ #rcorners1 {
+  /*border-radius:     200px    200px    100px    100px;*/
+  /*border-radius:     100px    50px    100px    30px    ;*/
+  background: #ee1746;
+  padding: 20px; 
+  width: 200px;
+  height: 200px;  
+  margin-left: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+input{
+  margin-left: 250px;
+}
+
+#id-input-resultado{
+  margin-left: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
