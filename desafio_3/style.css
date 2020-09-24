@@ -10,3 +10,24 @@ div{
 div{
     padding-left: 300px;
 }
+
+#x{
+    padding-left: 27px;
+    padding-right:27px;
+}
+#menos{
+    padding-left: 28px;
+    padding-right:28px;
+}
+#mais{
+    padding-left: 27px;
+    padding-right:27px;
+}
+#zero{
+    padding-left: 43px;
+    padding-right:43px;
+}
+#igual{
+    padding-left: 18px;
+    padding-right:18px;
+}
