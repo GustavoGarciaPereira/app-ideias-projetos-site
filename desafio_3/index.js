@@ -9,7 +9,7 @@ const operacoes = {
 
 document.addEventListener('click',(e)=>{
     //caractere mais na regex
-    var regex = /x/||/+/;
+    var regex = /x/;
     //console.log("gustavo clikou",e.target.id)
 
     if (e.target.innerText === '='){
